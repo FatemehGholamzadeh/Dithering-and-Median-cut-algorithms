@@ -1,4 +1,4 @@
-# Dithering-and-Median-cut-algorithms
+# Dithering and Median cut algorithms
 implementation of Dithering and Median cut algorithms on digital image - Multimedia Course -  Fall 2019
 
 ## Question 1:  
