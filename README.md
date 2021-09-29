@@ -14,7 +14,7 @@ implementation of Dithering and Median cut algorithms on digital image - Multime
   
 ### Dithering without Error:  
 
-![Uploading image.png…]()
+![image](https://user-images.githubusercontent.com/44861408/135315656-0db0f2cc-872d-4a66-a3be-9d9ca1d16e9b.png)
 
 
 
