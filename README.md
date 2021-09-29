@@ -13,3 +13,6 @@ implementation of Dithering and Median cut algorithms on digital image - Multime
 * plotting Histogram of a 480*640 image
 * implementation of Median cut Algorithm on a 480*640 image
 
+### result of Median cut:  
+
+![image](https://user-images.githubusercontent.com/44861408/135314987-b05cd66e-e55b-4f38-a5c7-82bad2333886.png)
