@@ -8,11 +8,16 @@ implementation of Dithering and Median cut algorithms on digital image - Multime
 ## Question 2:  
 * implementation of Dithering using floyd steinberg Algorithm with and without error  
 
-### Dithering with Error:  
+### original image:  
+
+![image](https://user-images.githubusercontent.com/44861408/135315780-d3fcbc0d-ed47-44ef-8d25-fe68af67d242.png)
+
+
+### floyd steinberg with Error:  
 
 ![image](https://user-images.githubusercontent.com/44861408/135315173-39672dc9-ffa1-44a9-a0c8-4826563c512b.png)  
   
-### Dithering without Error:  
+### floyd steinberg without Error:  
 
 ![image](https://user-images.githubusercontent.com/44861408/135315656-0db0f2cc-872d-4a66-a3be-9d9ca1d16e9b.png)
 
