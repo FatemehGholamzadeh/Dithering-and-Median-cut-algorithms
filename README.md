@@ -7,6 +7,10 @@ implementation of Dithering and Median cut algorithms on digital image - Multime
   
 ## original image:  
 ![image](https://user-images.githubusercontent.com/44861408/135316089-a17f5e4a-d224-4e9d-a35b-4788afa79119.png)
+  
+### 8 bit grey level:  
+
+![Uploading image.png…]()
 
    
 ## Question 2:  
