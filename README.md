@@ -8,6 +8,9 @@ implementation of Dithering and Median cut algorithms on digital image - Multime
 ## Question 2:  
 * implementation of Dithering using floyd steinberg Algorithm with and without error  
 
+![image](https://user-images.githubusercontent.com/44861408/135315173-39672dc9-ffa1-44a9-a0c8-4826563c512b.png)
+
+
    
 ## Question 3:  
 * plotting Histogram of a 480*640 image
