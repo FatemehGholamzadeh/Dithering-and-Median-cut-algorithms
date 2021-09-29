@@ -4,6 +4,10 @@ implementation of Dithering and Median cut algorithms on digital image - Multime
 ## Question 1:  
 * transforming of a 480*640 image to 8 bit grey level image using matlab.
 * transforming of a 480*640 image to 1 bit image  using matlab.  
+  
+## original image:  
+![image](https://user-images.githubusercontent.com/44861408/135316089-a17f5e4a-d224-4e9d-a35b-4788afa79119.png)
+
    
 ## Question 2:  
 * implementation of Dithering using floyd steinberg Algorithm with and without error  
